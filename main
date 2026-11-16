@@ -1,0 +1,26 @@
+colleges = [
+    "Sonoma State",
+    "Cal Poly Pomona",
+    "San Jose State",
+    "UC Irvine",
+    "UC Riverside",
+    "UC Merced",
+    "UC Davis",
+    "UC Santa Barbara"
+]
+
+costs = [
+    31192,
+    31332,
+    37735,
+    45206,
+    46539,
+    48654,
+    49009,
+    50946
+
+]
+
+
+print(colleges[3])
+print(costs[3])
